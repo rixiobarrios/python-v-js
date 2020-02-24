@@ -18,6 +18,7 @@ Let's take a look at the differences between Python and Javascript
 ## Getting Started
 
 1. In your `sandbox` directory, create a `differences.py` file and convert all the Javascript functions below into Python in that file.
+1. Don't forget to check your work as you go by running the file in terminal using `python3 differences.py`
 
 ## The Functions 
 
